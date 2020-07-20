@@ -1,1 +1,1 @@
-# Job Web App Teplate
+# Job Web App Template
